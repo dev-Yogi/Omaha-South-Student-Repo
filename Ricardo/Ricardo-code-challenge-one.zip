@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    <title>Style Conference</title>
+    <link rel="stylesheet" href="css/standard.css">
+</head>
+
+
+<body>
+
+    <nav>
+        <a href="cats.html">cats</a>
+        <a href="dogs.html">Dogs</a>
+        <a href="rabbits.html">Rabbits</a>
+        <a href="birds.html">Birds</a>
+
+<p> This is Code Challenge #1</p>
+  </nav>
+</body>
+</html>
